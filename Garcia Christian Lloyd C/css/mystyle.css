@@ -1,0 +1,64 @@
+body
+{
+    background: #FFF;
+}
+
+#Header a:hover
+
+{
+    color: #FFF
+}
+
+#bg-img
+{
+    background: url('../Img/back1.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 500px;
+
+}  
+
+
+#About
+{
+    margin-top: -200px;
+}
+
+#Aboutme span
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#Aboutme hr
+{
+    border-width: 2px;
+    margin-top: 06;
+}
+
+#S1 span
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#S1 hr
+{
+    border-width: 2px;
+    margin-top: 06;
+}
+
+#Exp2 span
+{
+    padding: 10px 20px 10px 20px;
+}
+
+#Exp2 hr
+{
+    border-width: 2px;
+    margin-top: 06;
+}
+
+#Exp2 .card
+{
+    border-top: 03px solid red;
+}
+
